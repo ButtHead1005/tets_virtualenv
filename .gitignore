@@ -1,0 +1,9 @@
+/.venv
+/tesla
+/.lite_calc.py.swp
+/.main.py.swp
+/items.csv
+/order_items.csv
+/orders_two.csv
+/users.csv
+/.DS_Store
